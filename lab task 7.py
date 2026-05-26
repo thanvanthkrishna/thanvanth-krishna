@@ -1,5 +1,5 @@
 #1.dictionary task
-student={"Name":"Devadharshini","Age":17,"Course":"python","Place":"Salem"}
+student={"Name":"EZHIL","Age":17,"Course":"python","Place":"Salem"}
 print("Your dictionary:",student)
 print(student.get("Name"))
 print("Keys:",student.keys())
